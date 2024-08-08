@@ -1,3 +1,8 @@
+**tout se fait via github web !!**
+
+**pour créer juste un repository suivre les étapes de 1 à 5 uniquement. le reste et pour ajouter un fichier. les fichiers créés doivent etre en .md pour la prise en compte du markdown exemple nom_fichier.md**
+
+
 | Étape                                          | Action                                                                                             | Description |
 |------------------------------------------------|----------------------------------------------------------------------------------------------------|-------------|
 | 1. Accéder à GitHub                            | Va sur ton compte GitHub.                                                                          | Assure-toi d'être connecté à ton compte. |
