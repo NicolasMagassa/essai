@@ -1,3 +1,7 @@
+
+**un repository a déja été créé au prealable via github sur le web!!**
+
+
 | Étape                        | Commande                                                   | Description |
 |------------------------------|------------------------------------------------------------|-------------|
 | **Ouvrir le Terminal**       | `Ctrl+`` ou `Cmd+``                                        | Ouvrir le terminal intégré dans VSCode. |
