@@ -1,0 +1,6 @@
+| Étape                           | Action                                                                                     | Description |
+|---------------------------------|--------------------------------------------------------------------------------------------|-------------|
+| 1. Accéder au dépôt             | Aller sur le repository.                                                                   | Naviguez jusqu'au dépôt GitHub où vous souhaitez ajouter un fichier. |
+| 2. Ajouter un fichier           | Cliquez sur **Add file** situé à gauche du bouton vert **Code**.                           | Cette action ouvre un menu déroulant avec des options pour ajouter ou créer un fichier. |
+| 3. Nommer le fichier            | Nommez votre document dans le champ prévu, par exemple `README.md`.                        | Tapez le nom du fichier que vous souhaitez créer. Assurez-vous d'inclure l'extension appropriée, comme `.md` pour les fichiers Markdown. |
+| 4. Enregistrer le fichier       | Cliquez sur **Commit new file**, le bouton vert à droite, pour enregistrer le fichier.     | Une fois que vous avez fini de taper ou de coller le contenu dans le fichier, confirmez et enregistrez le fichier dans votre dépôt. |
