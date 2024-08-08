@@ -1,12 +1,8 @@
-# Commandes Git pour la Gestion des Branches et Dépôt
-
-| Action                     | Commande                                                   |
-|----------------------------|------------------------------------------------------------|
-| **Créer une branche**      | `git checkout -b nom_de_la_nouvelle_branche`               |
-| **Supprimer une branche (local)** | `git branch -d nom_de_la_branche`                        |
-| **Forcer suppression (local)**  | `git branch -D nom_de_la_branche`                        |
-| **Supprimer une branche (distant)** | `git push origin --delete nom_de_la_branche`          |
-| **Fusionner une branche**  | 1. `git checkout branche_principale`. `git merge nom_de_la_branche_a_fusionner`. `git push origin branche_principale` |
-| **Supprimer un dépôt sur GitHub** | 1. Aller à `Settings` dans le dépôt. Descendre à `Danger Zone`. Cliquer sur `Delete this repository` |
-
-Ces commandes couvrent les opérations de base pour la gestion des branches et des dépôts avec Git et GitHub, accessibles directement depuis le terminal de Visual Studio Code.
+| Action                            | Commande                                           |
+|-----------------------------------|----------------------------------------------------|
+| **Créer une branche**             | `git checkout -b nom_de_la_nouvelle_branche`       |
+| **Supprimer une branche (local)** | `git branch -d nom_de_la_branche`                  |
+| **Forcer suppression (local)**    | `git branch -D nom_de_la_branche`                  |
+| **Supprimer une branche (distant)**| `git push origin --delete nom_de_la_branche`      |
+| **Fusionner une branche**         | `git checkout branche_principale; git merge nom_de_la_branche_a_fusionner` |
+| **Supprimer un dépôt sur GitHub** | Aller à `Settings` dans le dépôt, descendre à `Danger Zone`, cliquer sur `Delete this repository` |
