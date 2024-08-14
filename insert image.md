@@ -4,7 +4,7 @@
 
 **une adresse comme celle ci dessous va s'afficher dans le fichier**
 
-![Texte alternatif](lien_vers_votre_image)
+-- ! Texte alternatif lien_vers_votre_image --
 
 **texte alternatif = met le texte que tu veux mai tuj n'est pas obligé**
 
